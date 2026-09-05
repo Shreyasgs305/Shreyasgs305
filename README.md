@@ -1,9 +1,4 @@
 
-
-## 🔥 Contribution
-
-[![Shreyas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyasgs305&theme=github-compact&hide_border=true)](https://github.com/Shreyasgs305)
-
 # 👋 Hi, I'm Shreyas G S
 
 ### 🚀 MERN Stack Developer | 7th Sem CS Student
