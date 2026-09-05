@@ -1,3 +1,10 @@
+
+## 🔥 Contribution 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyasgs305&theme=github-compact&hide_border=true" />
+</p>
+
 # 👋 Hi, I'm Shreyas G S
 
 ### 🚀 MERN Stack Developer | 7th Sem CS Student
