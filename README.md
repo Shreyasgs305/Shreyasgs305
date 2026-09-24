@@ -1,20 +1,20 @@
 
 # 👋 Hi, I'm Shreyas G S
 
-### 🚀 MERN Stack Developer | 7th Sem CS Student
+### MERN Stack Developer | 7th Sem CS Student
 
 I build full-stack web applications using the **MERN stack** and enjoy
 turning real-world problems into practical software solutions.
 
-- 🎓 7th Semester Computer Science Student
-- 💻 MERN Stack Developer
-- 🚀 Building real-world projects
-- 🌱 Currently improving my DSA & Full-Stack Development skills
-- 💼 Open to Software Development Internships
+- 7th Semester Computer Science Student
+- MERN Stack Developer
+- Building real-world projects
+- Currently improving my DSA & Full-Stack Development skills
+- Open to Software Development Internships
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a Computer Science student passionate about software development
 and building useful web applications.
@@ -26,7 +26,7 @@ building projects, solving problems and learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
@@ -58,55 +58,25 @@ building projects, solving problems and learning new technologies.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 💰 Expense Tracker
+### Expense Tracker
 
 A full-stack expense management application built with the MERN stack.
 
 **Features**
-- 🔐 User authentication
-- 💳 Multiple accounts
-- 💰 Income & expense tracking
-- 🏷️ Expense categories
-- 📊 Budget management
-- 🔎 Transaction filtering
-- 📅 Date-based filtering
-- 📈 Financial dashboard
+- User authentication
+- Multiple accounts
+- Income & expense tracking
+- Expense categories
+- Budget management
+- Transaction filtering
+- Date-based filtering
+- Financial dashboard
 
 **Tech:** React • Node.js • Express.js • MongoDB
 
----
 
-### 📸 Smart Attendance System
-
-A college attendance management system designed to simplify
-student attendance tracking.
-
-**Features**
-- 🏫 College management
-- 👨‍🏫 Faculty management
-- 👨‍🎓 Student management
-- 📚 Courses & subjects
-- 🗓️ Timetable management
-- 📝 Attendance sessions
-- 👤 Face recognition based attendance
-
-**Tech:** MongoDB • Express.js • React • Node.js
-
----
-
-## 📚 Currently Learning
-
-- ⚛️ Advanced React
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 🔐 Authentication & Authorization
-- 🧠 Data Structures & Algorithms
-- 🏗️ Backend Architecture
-- 🚀 Deployment & Production Practices
-
----
 
 
 
@@ -133,7 +103,7 @@ student attendance tracking.
 
 ## 💡 My Goal
 
-> Build useful software, become a strong full-stack developer,
+> Build useful software, become a strong Software developer,
 > and contribute to real-world products.
 
 ⭐ If you find my projects useful, consider giving them a star!
